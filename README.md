@@ -1,4 +1,4 @@
-# Group major updates #31909
+# 31909
 
 ## Current behavior
 
