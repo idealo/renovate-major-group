@@ -3,14 +3,14 @@
   "packageRules": [
     {
       "groupName": "karpenter",
-      "matchUpdateTypes": [
-        "major",
-        "minor",
-        "patch"
-      ],
+      #"matchUpdateTypes": [
+      #  "major",
+      #  "minor",
+      #  "patch"
+      #],
       "matchPackageNames": [
-        "karpenter-crd",
-        "karpenter"
+        "public.ecr.aws/karpenter/karpenter-crd",
+        "public.ecr.aws/karpenter/karpenter"
       ]
     }
   ]
