@@ -1,3 +1,11 @@
+    > ⚠️ **Repository archived**
+    >
+    > This repository has been automatically archived on due to a missing compliant owner.
+    >  
+    > Archived by the auto-archive script:
+    > https://github.com/idealo/github-automation-scripts/tree/main/scripts/auto-archive
+    >
+    
 # 31909
 
 ## Current behavior
